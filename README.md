@@ -22,7 +22,7 @@
 
 <table align="center">
   <tr>
-    <th colspan="3" align="center">Frontend</th>
+    <th colspan="1" align="center">Frontend</th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/></td>
