@@ -86,8 +86,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://portfolio-nine-zeta-11.vercel.app" target="_blank">
-    <img src="https://th.bing.com/th/id/OIP.gS5lWXm9j480RG5osH25xwHaFL?rs=1&pid=ImgDetMain" />
-  </a>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />  
+</a>
 </p>
 
 ---
