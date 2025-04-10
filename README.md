@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey there 👋 I'm Yousef Abdallah</h1>
 <h3 align="center">🚀 Full-Stack Developer | React • Node.js • MongoDB • TypeScript</h3>
 
@@ -19,26 +20,72 @@
 
 ### 🛠️ My Tech Stack
 
-#### Frontend:
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<table align="center">
+  <tr>
+    <th colspan="3" align="center">Frontend</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Tailwind-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"/></td>
+    <td><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></td>
+  </tr>
+</table>
 
-#### Backend:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4db33d?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-dc382d?style=for-the-badge&logo=redis&logoColor=white)
+<table align="center">
+  <tr>
+    <th colspan="3" align="center">Backend</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/MongoDB-4db33d?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Redis-dc382d?style=for-the-badge&logo=redis&logoColor=white"/></td>
+  </tr>
+</table>
 
-#### Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F36836?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
+<table align="center">
+  <tr>
+    <th colspan="3" align="center">APIs & Realtime</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/REST-ff6f61?style=for-the-badge&logo=fastapi&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge&logo=graphql&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/WebSocket-35495e?style=for-the-badge&logo=socket.io&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/></td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <th colspan="3" align="center">Tools & Platforms</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Postman-F36836?style=for-the-badge&logo=postman&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></td>
+  </tr>
+</table>
 
 ---
 
