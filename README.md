@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Yousef Abdallah</h1>
-<h3 align="center">🚀 Full-Stack Developer | React • Node.js • MongoDB • TypeScript</h3>
+<h3 align="center">🚀 Full-Stack Engineer @NoVi | Skilled in JavaScript, React, Node.js | Building Robust & Scalable Web Solutions | TypeScript | Tech Innovator </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joe-77&label=Visitors&color=0e75b6&style=flat" alt="joe-77" />
